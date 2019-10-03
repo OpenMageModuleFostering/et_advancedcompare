@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/ET_AdvancedCompare",
+    "name": "OpenMageModuleFostering\/ET_AdvancedCompare",
     "type": "magento-module",
     "license": "ETWS-Free-License-(EFL1)",
     "homepage": "",
     "description": "Extension allows to add products to compare without page reloading (AJAX), improves visualization of results and allows to switch compare off on your website.",
     "authors": [
-    {
-        "name": "Jurij",
-        "email": "support@etwebsolutions.com"
-    }
-],
+        {
+            "name": "Jurij",
+            "email": "support@etwebsolutions.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
