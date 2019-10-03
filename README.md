@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Extension allows to add products to compare without page reloading (AJAX), improves visualization of results and allows to switch compare off on your website.
